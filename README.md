@@ -1,16 +1,13 @@
-# authorization
+# Соловьева Анна ЭФБО-01-22 Практическая работа №2
 
-A new Flutter project.
+Верстка страницы входа/регистрации по образцу
 
-## Getting Started
+## Образец
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/b901f14c-dc13-4063-89d3-a41e8072ce4e)
 
-A few resources to get you started if this is your first Flutter project:
+## Результат
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot_20240922_225724](https://github.com/user-attachments/assets/cf423e2b-5006-4963-adfe-3c0ab36c2cab)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20240922_225822](https://github.com/user-attachments/assets/90dc8327-1664-48b6-8572-68b1dacd7a98)
